@@ -1,0 +1,5 @@
+first_tuple = ("red", "green", "red")
+print(first_tuple[0])
+print(len(first_tuple))
+x = first_tuple.count('red')
+print(x)
